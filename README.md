@@ -6,8 +6,8 @@ estableció un tratado en el cual se disponía que los visigodos se asentaran en
 la Galia y controlaran algunos territorios en Hispania.
 
 ## Indice
-    1. Época
-    2. Arquitectura
-    3. Obras más significativas
+1. Época
+2. Arquitectura
+3. Obras más significativas
 ## Referencias
 [National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
